@@ -3,7 +3,7 @@ from telebot import types
 from bs4 import BeautifulSoup
 import requests
 
-bot = telebot.TeleBot('5177178571:AAF7OJmJMdnvpm4ic-KXRaxR4hRUwc380Vk')
+bot = telebot.TeleBot('API_KEY')
 
 URL = "https://auto.drom.ru/"
 
